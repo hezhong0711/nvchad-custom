@@ -28,7 +28,7 @@ If you encounter nvim-treesitter error when using please refer to -> [this](http
 | Action            | Key           |
 | :----:            | :----:        |
 | save file         | ctrl + s      |
-| exit              | ctrl + q      |
+| exit              | space + q     |
 | close buffer      | space + x     |
 | new buffer        | shift + t     |
 | new tab           | ctrl + t + b  |

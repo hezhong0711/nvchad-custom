@@ -1,8 +1,8 @@
 -------------------按键映射---------------------
 local map = require("core.utils").map
 
--- Ctrl+q退出
-map('n', '<C-q>', ':q<CR>')
+-- leader + q退出
+map('n', '<leader>q', ':q<CR>')
 
 -- 快速分屏
 map('n', 'sl', ':set splitright<CR>:vsplit<CR>')
