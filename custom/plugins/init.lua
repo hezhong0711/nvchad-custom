@@ -89,4 +89,10 @@ return {
     keys = {'i', 'a', 'I', 'A', 'c', 'o', 'O'},
   },
 
+  {
+    "neovim/nvim-lspconfig",
+  },
+  {
+    "williamboman/nvim-lsp-installer",
+  }
 }
